@@ -1,2 +1,2 @@
-**Submission Proyek Klasifikasi Gambar "Belajar Pengembangan Machine Learning"
-**
+Submission Proyek Klasifikasi Gambar "Belajar Pengembangan Machine Learning"
+
